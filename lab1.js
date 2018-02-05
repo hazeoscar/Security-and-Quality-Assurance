@@ -1,5 +1,5 @@
 /*jslint browser */
-
+alert("Yeganeh's changes");
 
 var formIn = document.forms[0];
 var logIn = document.getElementById("login__btn");
